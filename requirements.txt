@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+pandas
+openpyxl
+rapidfuzz
+pdfplumber
+requests
+customtkinter
+PySide6
+SpeechRecognition
+pywin32

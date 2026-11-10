@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.log
+dados/
+xmls_nfes/
+danfes/
+vendor/
+build/
+dist/
